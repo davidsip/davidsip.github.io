@@ -11,6 +11,7 @@ import { MinistriesComponent } from './ministries.component';
 import { ContactUsComponent } from './contact-us.component';
 // import { CarouselComponent } from './carousel.component';
 import { EventsComponent } from './events.component';
+// import { HashLocationStrategy, LocationStrategy } from '@angular/common';
 
 @NgModule({
   declarations: [
