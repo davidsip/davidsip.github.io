@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { CarouselComponent } from './carousel.component';
+// import { CarouselComponent } from './carousel.component';
 import { Router } from '@angular/router';
 import { ActivatedRoute, Params } from '@angular/router';
 import { Location } from '@angular/common';

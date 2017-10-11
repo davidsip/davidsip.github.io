@@ -9,7 +9,7 @@ import { HomeComponent } from './home.component';
 import { AppRoutingModule } from './app-routing.module';
 import { MinistriesComponent } from './ministries.component';
 import { ContactUsComponent } from './contact-us.component';
-import { CarouselComponent } from './carousel.component';
+// import { CarouselComponent } from './carousel.component';
 import { EventsComponent } from './events.component';
 
 @NgModule({
@@ -19,7 +19,7 @@ import { EventsComponent } from './events.component';
     HomeComponent,
     MinistriesComponent,
     ContactUsComponent,
-    CarouselComponent,
+    // CarouselComponent,
     EventsComponent,
   ],
   imports: [
